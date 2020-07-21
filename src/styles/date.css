@@ -1,0 +1,18 @@
+/* .datePick {
+  position: relative;
+  bottom: 150px;
+} */
+
+p {
+  text-align: center;
+}
+
+.card {
+  padding: 10px;
+}
+
+.pick1,
+.pick2 {
+  margin-left: 3px;
+  padding: 5px;
+}

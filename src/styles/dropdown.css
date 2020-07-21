@@ -1,0 +1,14 @@
+.label {
+	font-size: 15px;
+	font-family: monospace;
+	text-align: center;
+	margin-top:5px;
+}
+
+.dtt{
+	margin-left : -20px;
+}
+
+.dd{
+	margin-top:25px;
+}

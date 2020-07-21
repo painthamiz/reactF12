@@ -1,0 +1,59 @@
+
+
+.searchdiv{
+	background-color: #880e4f;
+	color: white;
+	
+}
+.inputtext{
+	color: #880e4f;
+}
+.search{
+	margin-top: 10px;
+	width: 40%;
+	height: 40%;
+}
+
+.searchbg{
+	background-color: #fafafa;
+	min-height:550px;
+}
+
+.inputform{
+	margin-top: 40px;
+}
+.ch1,
+.ch2,
+.ch3 {
+  height: 5px;
+}
+.ch1 {
+  background-color: green;
+}
+
+.ch2 {
+  background-color: cornflowerblue;
+}
+
+.ch3 {
+  background-color: orchid;
+}
+
+.c1 {
+  margin-left: 5rem;
+}
+.c2 {
+  margin-left: 3rem;
+}
+.c3 {
+  margin-left: -1rem;
+}
+
+.c4 {
+  margin-left: 4rem;
+}
+
+
+.c5 {
+  margin-left: 2rem;
+}

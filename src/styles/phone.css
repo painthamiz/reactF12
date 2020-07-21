@@ -1,0 +1,29 @@
+h4 {
+  margin-left: 10px;
+  font-family: "Cabin";
+  font-weight: 300; 
+  color: black;
+  border-bottom: 2.5px gray;
+}
+
+.op-cont {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  box-shadow: 10px 10px 5px grey;
+  width: 95%;
+  background-color: #f5f5f5;
+}
+
+.tableBod {
+  font-size: 2px;
+}
+
+.bg{
+	background-color: orange;
+	
+}
+
+.bgsupport{
+	top:2px;
+	height:500px;
+}
