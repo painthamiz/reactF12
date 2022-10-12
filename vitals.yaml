@@ -1,0 +1,8 @@
+apiVersion: v1
+metadata:
+  askId: UHGWM110-000491
+  caAgileId: null
+  projectKey: com.optum.ndb:bndbl040.CLMAcknowledgement
+  projectFriendlyName: bndbl040.CLMAcknowledgement
+  componentType: code
+  targetQG: GATE_00
